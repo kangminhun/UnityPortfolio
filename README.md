@@ -1,3 +1,4 @@
+[Unity_appleberry_포트폴리오.pdf](https://github.com/user-attachments/files/30627030/Unity_appleberry_.pdf)
 #(ai가 활성화 되기 전에 순수 코딩과 구글링으로만 만들다 보니 조금 지저분 할 수 있습니다.)
 # 어린이 영어학원 학습 콘텐츠 게임 (Unity / C#)
 
@@ -23,6 +24,11 @@ Unity 기반 학습 콘텐츠 애플리케이션의 클라이언트 스크립트
 - **학습 영상 시스템** — 영상 다운로드/재생, 구간 반복, 진행률 표시
 - **랭킹 / 우편함 / 출석 체크**
 - **관리자 콘솔** — 명령어 기반 공지/카드 등록, 포인트 지급
+
+## 설명 pdf
+
+[Unity_appleberry_포트폴리오.pdf](https://github.com/user-attachments/files/30627038/Unity_appleberry_.pdf)
+
 
 ## 기술 스택
 
