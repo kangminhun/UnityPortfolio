@@ -19,7 +19,6 @@ Unity 기반 학습 콘텐츠 애플리케이션의 클라이언트 스크립트
 - **챕터별 학습 미니게임** — 단어·이미지 매칭, 문장 완성, 조각 퍼즐, 복습 퀴즈 등 15종 이상
 - **학습 영상 시스템** — 영상 다운로드/재생, 구간 반복, 진행률 표시
 - **랭킹 / 우편함 / 출석 체크**
-- **화상 수업(Zoom) 연동**
 - **관리자 콘솔** — 명령어 기반 공지/카드 등록, 포인트 지급
 
 ## 기술 스택
@@ -52,12 +51,18 @@ Scripts/
 
 ## 데모 영상
 
-- (여기에 유튜브/드라이브 영상 링크 추가)
+- https://youtu.be/rFp6rwlDrgs
 
-## 스크린샷
+## 스크린샷 각 종 미니게임 중 일부 사진
 
-- (여기에 스크린샷 이미지 추가)
+- <img width="854" height="481" alt="플레이 사진 5" src="https://github.com/user-attachments/assets/00cf4ac1-dcb1-4d25-bf2c-37a9701029a7" />
+<img width="857" height="485" alt="플레이 사진 4" src="https://github.com/user-attachments/assets/e706a566-0830-4e5b-b211-e3e626a3eac2" />
+<img width="853" height="483" alt="플레이 사진 3" src="https://github.com/user-attachments/assets/402b8435-8298-4d9c-8193-2d9f9c1d680e" />
+<img width="856" height="480" alt="플레이 사진 2" src="https://github.com/user-attachments/assets/c2b16e5f-8b6e-4fda-9c7a-d4adfce47860" />
+<img width="859" height="480" alt="플레이 사진 1" src="https://github.com/user-attachments/assets/ac7c8d62-7d1b-46b9-873a-225b3d3ec033" />
 
-## Author
+## 개발 기간
+- 약 6개월 가량
 
-- (이름 / 연락처 / 포트폴리오 링크 추가)
+## 담당 역할
+- 기획 참여부터 클라이언트/서버 통신, 게임 로직 전체 개발
